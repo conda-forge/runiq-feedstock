@@ -1,4 +1,4 @@
-{% set version = "2.0.0" %}
+{% set version = "2.1.0" %}
 
 package:
   name: runiq
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/whitfin/runiq/archive/v{{ version }}.tar.gz
-  sha256: 99e5f9fa7389608cabad1fc8cb640739e48a28f02462a2db7a56d0c12138266e
+  sha256: a0f45d4ceebbcf600b17e247a4a7475f00924a5d97907ab5e2023b2099ef6fbd
 
 build:
   number: 0
